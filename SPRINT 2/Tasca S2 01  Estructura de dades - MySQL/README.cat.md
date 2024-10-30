@@ -1,5 +1,5 @@
-[![EN](https://img.shields.io/badge/EN-blue.svg)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/blob/main/SPRINT%202/Tasca%20S2%2001%20%20Estructura%20de%20dades%20-%20MySQL/README.md)
-[![ES](https://img.shields.io/badge/ES-red.svg)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/blob/main/SPRINT%202/Tasca%20S2%2001%20%20Estructura%20de%20dades%20-%20MySQL/README.es.md)
+[![EN](https://img.shields.io/badge/EN-blue.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/blob/main/SPRINT%202/Tasca%20S2%2001%20%20Estructura%20de%20dades%20-%20MySQL/README.md)
+[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/blob/main/SPRINT%202/Tasca%20S2%2001%20%20Estructura%20de%20dades%20-%20MySQL/README.es.md)
 
 
 **1. Estructura de dades - MySQL**
