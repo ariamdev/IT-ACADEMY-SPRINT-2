@@ -2,7 +2,7 @@
 [![CAT](https://img.shields.io/badge/CAT-yellow.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/blob/main/SPRINT%202/Tasca%20S2%2002%20MySQL%20queries/README.cat.md)
 
 
-2. MySQL queries 
+2.MySQL queries 
 =
 
 Learning to query a SQL database.
