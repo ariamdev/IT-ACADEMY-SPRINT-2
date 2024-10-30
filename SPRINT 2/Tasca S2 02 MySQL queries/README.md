@@ -1,6 +1,5 @@
-[![EN](https://img.shields.io/badge/EN-blue.svg)](#eng)
-[![ES](https://img.shields.io/badge/ES-red.svg)](#es)
-[![CAT](https://img.shields.io/badge/CAT-yellow.svg)](#cat)
+[![ES](https://img.shields.io/badge/ES-red.svg)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/blob/main/SPRINT%202/Tasca%20S2%2002%20MySQL%20queries/README.es.md)
+[![CAT](https://img.shields.io/badge/CAT-yellow.svg)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/blob/main/SPRINT%202/Tasca%20S2%2002%20MySQL%20queries/README.cat.md)
 
 
 <a name="eng"></a>
