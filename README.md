@@ -1,6 +1,6 @@
-[![EN](https://img.shields.io/badge/EN-blue.svg)](#eng)
-[![ES](https://img.shields.io/badge/ES-red.svg)](#es)
-[![CAT](https://img.shields.io/badge/CAT-yellow.svg)](#cat)
+[![EN](https://img.shields.io/badge/EN-blue.svg?logo=googletranslate&logoColor=white)](#eng)
+[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)](#es)
+[![CAT](https://img.shields.io/badge/CAT-yellow.svg?logo=googletranslate&logoColor=white)](#cat)
 
 
 # IT ACADEMY - JAVA & SPRING FRAMEWORK
