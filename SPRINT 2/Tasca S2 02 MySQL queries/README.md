@@ -2,7 +2,6 @@
 [![CAT](https://img.shields.io/badge/CAT-yellow.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/blob/main/SPRINT%202/Tasca%20S2%2002%20MySQL%20queries/README.cat.md)
 
 
-<a name="eng"></a>
 2. MySQL queries 
 =
 
