@@ -1,4 +1,4 @@
-[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)]()
+[![ES](https://img.shields.io/badge/ES-red.svg?logo=googletranslate&logoColor=white)](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/blob/main/SPRINT%202/Tasca%20S2%2003%20%20Estructura%20de%20dades%20-%20MongoDB/README.es.md)
 [![CAT](https://img.shields.io/badge/CAT-yellow.svg?logo=googletranslate&logoColor=white)]()
 
 3.Data structure - MongoDB
@@ -26,7 +26,7 @@ Specifically, we want to know about each provider:
 - Our system must indicate who was the employee who sold each glasses. Defines which day/time the sale is made.
 
 
-#### 📍 [Exercise 1]()
+#### 📍 [Exercise 1](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/tree/main/SPRINT%202/Tasca%20S2%2003%20%20Estructura%20de%20dades%20-%20MongoDB/Nivell%201/Exercici1)
 
 Imagine that we have the following graphical interface, from the point of view of an Optician client. 
 How would you design the database that would provide the information?
@@ -34,7 +34,7 @@ How would you design the database that would provide the information?
 ![opticaSQL](https://github.com/user-attachments/assets/5d6b4ba8-0394-4bae-b1fa-5a032e164001)
 
 
-#### 📍 [Exercise 2]()
+#### 📍 [Exercise 2](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/tree/main/SPRINT%202/Tasca%20S2%2003%20%20Estructura%20de%20dades%20-%20MongoDB/Nivell%201/Exercici2)
 
 What if the point of view of the interface were the glasses?
 
@@ -43,7 +43,7 @@ What if the point of view of the interface were the glasses?
 ⭐🌟 Level 2
 -
 
-#### 📍 [Exercise 1]()
+#### 📍 [Exercise 1](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/tree/main/SPRINT%202/Tasca%20S2%2003%20%20Estructura%20de%20dades%20-%20MongoDB/Nivell%202/Exercici1)
 
 They have hired you to design a website that allows you to place food orders at home on the Internet.
 
