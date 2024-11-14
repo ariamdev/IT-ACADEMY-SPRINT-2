@@ -6,7 +6,7 @@
 # IT ACADEMY - JAVA & SPRING FRAMEWORK
 
 <a name="eng"></a>
-## Contents Sprint 2:
+## 📁 Contents Sprint 2:
 Design and model data structures in relational or SQL databases, and document or NoSQL databases.
 
 + **[1. Data structure - MySQL](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/tree/main/SPRINT%202/Tasca%20S2%2001%20%20Estructura%20de%20dades%20-%20MySQL)** Learn how to model SQL databases.
@@ -16,7 +16,7 @@ Design and model data structures in relational or SQL databases, and document or
 ---
 
 <a name="es"></a>
-## Temario Sprint 2:
+## 📁 Temario Sprint 2:
 Disseñar y modelar estructuras de datos en bases de datos relacionales o SQL y documentales o NoSQL.
 
 + **[1. Estructura de datos - MySQL](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/tree/main/SPRINT%202/Tasca%20S2%2001%20%20Estructura%20de%20dades%20-%20MySQL)** Aprender a modelar bases de datos SQL.
@@ -26,7 +26,7 @@ Disseñar y modelar estructuras de datos en bases de datos relacionales o SQL y 
 ---
 
 <a name="cat"></a>
-## Temari Sprint 2:
+## 📁 Temari Sprint 2:
  Dissenyar i modelar estructures de dades en bases de dades relacionals o SQL, i documentals o NoSQL.
  
  + **[1. Estructura de dades - MySQL](https://github.com/ariamdev/IT-ACADEMY-SPRINT-2/tree/main/SPRINT%202/Tasca%20S2%2001%20%20Estructura%20de%20dades%20-%20MySQL)** Aprendre a modelar bases de dades SQL.
